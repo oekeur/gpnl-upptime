@@ -37,48 +37,48 @@ skipHomepageUpdate: false
 
 i18n:
   activeIncidents: Active Incidents
-	allSystemsOperational: Alle systemen zijn operationeel
-  incidentReport: "Incident #$NUMBER rapport →"
-	activeIncidentSummary: Geopened op $DATE met $POSTS posts
-	incidentTitle: Incident $NUMBER Details
-	incidentDetails: Incident Details
-	incidentFixed: Opgelost
-	incidentOngoing: Aanhoudend
-	incidentOpenedAt: Geopened op
-	incidentClosedAt: Gesloten op
-	incidentSubscribe: Schrijf in op updates
-	incidentViewOnGitHub: Bekijk op GitHub
-	incidentCommentSummary: Geplaatst op $DATE door $AUTHOR
-	incidentBack: ← Terug naar alle incidenten
-	pastIncidents: Past Incidents
-	pastIncidentsResolved: Opgelist binnen $MINUTES minuten met $POSTS berichten
-	liveStatus: Live Status
-	overallUptime: "Totaal uptime: $UPTIME"
-	overallUptimeTitle: Totaal uptime
-	averageResponseTime: "Gemiddelde response tijd: $TIMEms"
-	averageResponseTimeTitle: Gemiddelde response
-	sevelDayResponseTime: 7-daags response tijd
-	responseTimeMs: Response tijd (ms)
-	up: Up
-	down: Down
-	degraded: Verslechterd
-	ms: ms
-	loading: Laden
-	navGitHub: GitHub
-	footer: Deze pagina is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
-	rateLimitExceededTitle: Aanvraag beperking overschreden
-rateLimitExceededIntro: JE hebt teveel aanvragen gedaan in het afgelopen uur. Je moet wachten voordat je deze website weer wilt kunnen bezoeken. Als alternatief kan je een Personal Access Token toevoegen om deze website weer te kunnen bekijken.
-	rateLimitExceededWhatDoesErrorMean: What betekent deze foutmelding?
-rateLimitExceededErrorMeaning: Deze website gebruikt de Github API om onze website status bij te houden. Github staat staat maximaal 60 aanvragen per IP adres per uur toe, wat je hebt overschreden.
-	rateLimitExceededErrorHowCanFix: Hoe kan ik dit oplossen?
-rateLimitExceededErrorFix: Je kan een uur wachten totdat je aanvraaglimiet is hersteld. Als alternatief kan je een Personal Access Token toevoegen waarmee je 5000 aanvragen per uur kan doen..
-	rateLimitExceededGeneratePAT: Leer hoe een Personal Access Token te genereren.
-	rateLimitExceededHasSet: Je hebt een Personal Access Token ingesteld.
-	rateLimitExceededRemoveToken: Verwijder token
-	rateLimitExceededGitHubPAT: GitHub Personal Access Token
-	rateLimitExceededCopyPastePAT: Kopieer en plak je token
-	rateLimitExceededSaveToken: Sla token op
-	errorTitle: Er is een fout opgetreden
-	errorIntro: Er is een fout opgetreden bij het laden van de incident details.
-	errorText: Probeer het nog eens.
-	errorHome: Ga terug naar de homepage
+  allSystemsOperational: Alle systemen zijn operationeel
+  incidentReport: "Incident #$NUMBER rapport →"  
+  activeIncidentSummary: Geopened op $DATE met $POSTS posts
+  incidentTitle: Incident $NUMBER Details
+  incidentDetails: Incident Details
+  incidentFixed: Opgelost
+  incidentOngoing: Aanhoudend
+  incidentOpenedAt: Geopened op
+  incidentClosedAt: Gesloten op
+  incidentSubscribe: Schrijf in op updates
+  incidentViewOnGitHub: Bekijk op GitHub
+  incidentCommentSummary: Geplaatst op $DATE door $AUTHOR
+  incidentBack: ← Terug naar alle incidenten
+  pastIncidents: Past Incidents
+  pastIncidentsResolved: Opgelist binnen $MINUTES minuten met $POSTS berichten
+  liveStatus: Live Status
+  overallUptime: "Totaal uptime: $UPTIME"
+  overallUptimeTitle: Totaal uptime
+  averageResponseTime: "Gemiddelde response tijd: $TIMEms"
+  averageResponseTimeTitle: Gemiddelde response
+  sevelDayResponseTime: 7-daags response tijd
+  responseTimeMs: Response tijd (ms)
+  up: Up
+  down: Down
+  degraded: Verslechterd
+  ms: ms
+  loading: Laden
+  navGitHub: GitHub
+  footer: Deze pagina is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Aanvraag beperking overschreden
+  rateLimitExceededIntro: JE hebt teveel aanvragen gedaan in het afgelopen uur. Je moet wachten voordat je deze website weer wilt kunnen bezoeken. Als alternatief kan je een Personal Access Token toevoegen om deze website weer te kunnen bekijken.
+  rateLimitExceededWhatDoesErrorMean: What betekent deze foutmelding?
+  rateLimitExceededErrorMeaning: Deze website gebruikt de Github API om onze website status bij te houden. Github staat staat maximaal 60 aanvragen per IP adres per uur toe, wat je hebt overschreden.
+  rateLimitExceededErrorHowCanFix: Hoe kan ik dit oplossen?
+  rateLimitExceededErrorFix: Je kan een uur wachten totdat je aanvraaglimiet is hersteld. Als alternatief kan je een Personal Access Token toevoegen waarmee je 5000 aanvragen per uur kan doen..
+  rateLimitExceededGeneratePAT: Leer hoe een Personal Access Token te genereren.
+  rateLimitExceededHasSet: Je hebt een Personal Access Token ingesteld.
+  rateLimitExceededRemoveToken: Verwijder token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Kopieer en plak je token
+  rateLimitExceededSaveToken: Sla token op
+  errorTitle: Er is een fout opgetreden
+  errorIntro: Er is een fout opgetreden bij het laden van de incident details.
+  errorText: Probeer het nog eens.
+  errorHome: Ga terug naar de homepage
