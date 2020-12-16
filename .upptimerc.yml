@@ -8,6 +8,10 @@ sites:
     url: https://www.greenpeace.org/nl/
   - name: FS
     url: https://steun.greenpeace.nl/plastic
+    
+assignees:
+  - oekeur
+  - dirkjf
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -15,8 +19,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: GPNL uptime monitor
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: ""
+  introMessage: This page gives a quick overview of the status of GPNL online properties.
   navbar:
     - title: Status
       href: /
@@ -25,3 +29,56 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+skipDescriptionUpdate: false
+skipTopicsUpdate: false
+skipHomepageUpdate: false
+
+
+i18n:
+  activeIncidents: Active Incidents
+	allSystemsOperational: Alle systemen zijn operationeel
+  incidentReport: "Incident #$NUMBER rapport →"
+	activeIncidentSummary: Geopened op $DATE met $POSTS posts
+	incidentTitle: Incident $NUMBER Details
+	incidentDetails: Incident Details
+	incidentFixed: Opgelost
+	incidentOngoing: Aanhoudend
+	incidentOpenedAt: Geopened op
+	incidentClosedAt: Gesloten op
+	incidentSubscribe: Schrijf in op updates
+	incidentViewOnGitHub: Bekijk op GitHub
+	incidentCommentSummary: Geplaatst op $DATE door $AUTHOR
+	incidentBack: ← Terug naar alle incidenten
+	pastIncidents: Past Incidents
+	pastIncidentsResolved: Opgelist binnen $MINUTES minuten met $POSTS berichten
+	liveStatus: Live Status
+	overallUptime: "Totaal uptime: $UPTIME"
+	overallUptimeTitle: Totaal uptime
+	averageResponseTime: "Gemiddelde response tijd: $TIMEms"
+	averageResponseTimeTitle: Gemiddelde response
+	sevelDayResponseTime: 7-daags response tijd
+	responseTimeMs: Response tijd (ms)
+	up: Up
+	down: Down
+	degraded: Verslechterd
+	ms: ms
+	loading: Laden
+	navGitHub: GitHub
+	footer: Deze pagina is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+	rateLimitExceededTitle: Aanvraag beperking overschreden
+rateLimitExceededIntro: JE hebt teveel aanvragen gedaan in het afgelopen uur. Je moet wachten voordat je deze website weer wilt kunnen bezoeken. Als alternatief kan je een Personal Access Token toevoegen om deze website weer te kunnen bekijken.
+	rateLimitExceededWhatDoesErrorMean: What betekent deze foutmelding?
+rateLimitExceededErrorMeaning: Deze website gebruikt de Github API om onze website status bij te houden. Github staat staat maximaal 60 aanvragen per IP adres per uur toe, wat je hebt overschreden.
+	rateLimitExceededErrorHowCanFix: Hoe kan ik dit oplossen?
+rateLimitExceededErrorFix: Je kan een uur wachten totdat je aanvraaglimiet is hersteld. Als alternatief kan je een Personal Access Token toevoegen waarmee je 5000 aanvragen per uur kan doen..
+	rateLimitExceededGeneratePAT: Leer hoe een Personal Access Token te genereren.
+	rateLimitExceededHasSet: Je hebt een Personal Access Token ingesteld.
+	rateLimitExceededRemoveToken: Verwijder token
+	rateLimitExceededGitHubPAT: GitHub Personal Access Token
+	rateLimitExceededCopyPastePAT: Kopieer en plak je token
+	rateLimitExceededSaveToken: Sla token op
+	errorTitle: Er is een fout opgetreden
+	errorIntro: Er is een fout opgetreden bij het laden van de incident details.
+	errorText: Probeer het nog eens.
+	errorHome: Ga terug naar de homepage
