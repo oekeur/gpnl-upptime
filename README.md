@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.github.io/gpnl-upptime): <!--live status--> **Alle systemen zijn operationeel**
+# [📈 Live Status](https://oekeur.github.io/gpnl-upptime): <!--live status--> **Alle systemen zijn operationeel**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
