@@ -22,11 +22,11 @@
     "url": "https://steun.greenpeace.nl/plastic",
     "icon": "https://favicons.githubusercontent.com/steun.greenpeace.nl",
     "slug": "fs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1168,
     "timeDay": 5266,
@@ -34,7 +34,7 @@
     "timeMonth": 1838,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2021-03-02": 5,
+      "2021-03-02": 0,
       "2021-01-26": 17,
       "2021-01-21": 23
     }
