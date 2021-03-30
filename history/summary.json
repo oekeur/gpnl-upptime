@@ -5,17 +5,21 @@
     "icon": "https://favicons.githubusercontent.com/www.greenpeace.org",
     "slug": "p4",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 204,
-    "timeWeek": 312,
-    "timeMonth": 241,
-    "timeYear": 278,
-    "dailyMinutesDown": {}
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.90%",
+    "time": 281,
+    "timeDay": 921,
+    "timeWeek": 406,
+    "timeMonth": 264,
+    "timeYear": 281,
+    "dailyMinutesDown": {
+      "2021-03-02": 110,
+      "2021-01-26": 17,
+      "2021-01-21": 23
+    }
   },
   {
     "name": "FS",
@@ -29,9 +33,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.90%",
     "time": 1235,
-    "timeDay": 970,
-    "timeWeek": 1898,
-    "timeMonth": 1989,
+    "timeDay": 1170,
+    "timeWeek": 1830,
+    "timeMonth": 1965,
     "timeYear": 1235,
     "dailyMinutesDown": {
       "2021-03-02": 110,
@@ -45,16 +49,20 @@
     "icon": "https://favicons.githubusercontent.com/www.maaktoekomst.nl",
     "slug": "mt",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.78%",
     "time": 507,
-    "timeDay": 494,
-    "timeWeek": 512,
-    "timeMonth": 502,
+    "timeDay": 551,
+    "timeWeek": 515,
+    "timeMonth": 504,
     "timeYear": 507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-02": 110,
+      "2021-01-26": 17,
+      "2021-01-21": 23
+    }
   }
 ]
