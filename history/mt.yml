@@ -1,7 +1,7 @@
 url: https://www.maaktoekomst.nl/
-status: up
-code: 200
-responseTime: 400
-lastUpdated: 2021-06-07T23:39:14.411Z
+status: down
+code: 500
+responseTime: 412
+lastUpdated: 2021-06-08T09:54:30.102Z
 startTime: Wed Feb 10 2021 09:57:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
